@@ -1,13 +1,16 @@
 # About BitCamp | WHY
 BitCamp aims to be like a local LambdaSchool. 
-If something seems promosing for me on different directions, I alawys try to do it.
-I asked them to send me a copy of the syllabus and I would figure out myself to finish it.
-Let's see what it will be at the end.
+
+Let's see what will happen 😏 
 
 
 # Progress
+List:
 
-1. DONE Introduction to Computer Science in JavaScript (Golden), CODEHS, https://codehs.com/certificate/FjW23z
-2. IN PROGRESS: Nature of Code Code!
-2.1 DONE Code! Programming with p5.js
-2.2 IN PROGRESS: Advanced course on kadenze.com
+1. - [x] Introduction to Computer Science in JavaScript (Golden), CODEHS, [Sertificate](https://codehs.com/certificate/FjW23z)
+> The CodeHS introduction to computer science curriculum teaches the foundations of computer science and basic programming, with an emphasis on helping students develop logical thinking and problem solving skills. [More](https://codehs.com/info/curriculum/introjs)
+1. - [ ]  Nature of Code Code!
+   1. - [x]  Code! Programming with p5.js, [Youtube Playlist](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA)
+   > This online course focuses on the fundamentals of computer programming (variables, conditionals, iteration, functions & objects) using JavaScript.
+   1. - [ ] Advanced course on [Kadenze.com](https://www.kadenze.com/courses/the-nature-of-code-ii/info)
+   > This class focuses on the programming strategies and techniques behind computer simulations of natural systems. We explore topics ranging from basic mathematics and physics concepts to more advanced simulations of complex systems. Subjects covered include physics simulation, trigonometry, fractals, cellular automata, self-organization, and genetic algorithms
