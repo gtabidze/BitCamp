@@ -8,4 +8,6 @@ Let's see what it will be at the end.
 # Progress
 
 1. DONE Introduction to Computer Science in JavaScript (Golden), CODEHS, https://codehs.com/certificate/FjW23z
-2. IN PROGRESS Nature of Code Code! Programming with p5.js
+2. IN PROGRESS: Nature of Code Code!
+2.1 DONE Code! Programming with p5.js
+2.2 IN PROGRESS: Advanced course on kadenze.com
