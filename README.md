@@ -7,10 +7,12 @@ Let's see what will happen 😏
 # Progress
 
 1. - [x] **Introduction to Computer Science in JavaScript (Golden),** CODEHS, [Sertificate](https://codehs.com/certificate/FjW23z)
+ <br />
 The CodeHS introduction to computer science curriculum teaches the foundations of computer science and basic programming, with an emphasis on helping students develop logical thinking and problem solving skills. [More](https://codehs.com/info/curriculum/introjs)
  <br />
 
-2. - [ ]  **Nature of Code Code!**
+2. - [ ]  **Nature of Code Code!**  
+<br />
 The following two section contains Youtube playlist and Advanced course about [Nature of Code ](https://natureofcode.com/book/preface/)
 
  - [x]  Code! Programming with p5.js, [Youtube Playlist](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA)
