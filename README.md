@@ -10,6 +10,8 @@ Let's see what will happen 😏
 
 The CodeHS introduction to computer science curriculum teaches the foundations of computer science and basic programming, with an emphasis on helping students develop logical thinking and problem solving skills. [More](https://codehs.com/info/curriculum/introjs)
  <br />
+ 
+![Image description](https://i.imgur.com/qQYQfc3.png)
 
 2. - [ ]  **Nature of Code Code!**  
 
