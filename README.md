@@ -13,6 +13,19 @@ Let's see what will happen 😏
  
 ![Image description](https://i.imgur.com/qQYQfc3.png)
 
+##### Notable excercises during the course
+
+[Random Hurdles](https://codehs.com/share/BMmouXzEfvjd3OyrfDcP), 
+[Mario Karel](https://codehs.com/share/7eaRi0AxXeNtkuCmmUIT), 
+[Fetch](https://codehs.com/share/nrqtk3ohykq9oO8A5evH), 
+[Double Tennis Balls](https://codehs.com/share/hULzFzHBGXQnL9XTfE5Z), 
+[Fried Egg](https://codehs.com/share/8ZJDNUlyE7tOtBLwxOTl), 
+[Ghost Invasion!](https://codehs.com/share/eXtKHMjb4Ys1H61IyGkp), 
+[Blinking Rectangles](https://codehs.com/share/igjNil5NoIYpyo7gh4dS), 
+[Breakout19 ](https://codehs.com/share/H2aBsvyddlOrFeh3GQfd)
+
+ <br />
+
 2. - [x]  **Nature of Code Code!**  
 
 The following two section contains Youtube playlist and Advanced course about [Nature of Code ](https://natureofcode.com/book/preface/)
