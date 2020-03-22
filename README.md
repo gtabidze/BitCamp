@@ -22,7 +22,7 @@ Let's see what will happen 😏
 [Fried Egg](https://codehs.com/share/8ZJDNUlyE7tOtBLwxOTl), 
 [Ghost Invasion!](https://codehs.com/share/eXtKHMjb4Ys1H61IyGkp), 
 [Blinking Rectangles](https://codehs.com/share/igjNil5NoIYpyo7gh4dS), 
-[Breakout](https://codehs.com/share/H2aBsvyddlOrFeh3GQfd)
+[Breakout](https://codehs.com/share/H2aBsvyddlOrFeh3GQfd), 
 [Classic Snake Game](https://codehs.com/share/RkaGR92n2bVzXuGS64Hu)
 
  <br />
@@ -39,7 +39,7 @@ The following two section contains Youtube playlist and Advanced course about [N
 ##### Notable excercises
 
 [The map() funtion](https://editor.p5js.org/gtabidze/sketches/B9Jj7H6A), 
-[Random Walker, Red and Black lines](https://editor.p5js.org/gtabidze/sketches/_NDsyb3L), 
+[Random Walker Red and Black lines](https://editor.p5js.org/gtabidze/sketches/_NDsyb3L), 
 [Follower Wave](https://editor.p5js.org/gtabidze/sketches/wvL-gW2o), 
 [Mathematical Heart](https://editor.p5js.org/gtabidze/sketches/u6CCekda-), 
 [Fractal Tree](https://editor.p5js.org/gtabidze/sketches/xwrhDeszV)
