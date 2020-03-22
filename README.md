@@ -8,7 +8,7 @@ Let's see what will happen 😏
 
 1. - [x] **Introduction to Computer Science in JavaScript (Golden),** CODEHS, [Sertificate](https://codehs.com/certificate/FjW23z)
 
-The CodeHS introduction to computer science curriculum teaches the foundations of computer science and basic programming, with an emphasis on helping students develop logical thinking and problem solving skills. [More](https://codehs.com/info/curriculum/introjs)
+> The CodeHS introduction to computer science curriculum teaches the foundations of computer science and basic programming, with an emphasis on helping students develop logical thinking and problem solving skills. [More](https://codehs.com/info/curriculum/introjs)
  <br />
  
 ![Image description](https://i.imgur.com/qQYQfc3.png)
