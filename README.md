@@ -31,9 +31,9 @@ Let's see what will happen 😏
 
 The following two section contains Youtube playlist and Advanced course about [Nature of Code ](https://natureofcode.com/book/preface/)
 
- - [x] Code! Programming with p5.js, [Youtube Playlist](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA)
+ - [x] 2.1 Code! Programming with p5.js, [Youtube Playlist](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA)
  > This online course focuses on the fundamentals of computer programming (variables, conditionals, iteration, functions & objects) using JavaScript.
- - [x] Advanced course on [Kadenze.com](https://www.kadenze.com/courses/the-nature-of-code-ii/info)
+ - [x] 2.2 Advanced course on [Kadenze.com](https://www.kadenze.com/courses/the-nature-of-code-ii/info)
  > This class focuses on the programming strategies and techniques behind computer simulations of natural systems. We explore topics ranging from basic mathematics and physics concepts to more advanced simulations of complex systems. Subjects covered include physics simulation, trigonometry, fractals, cellular automata, self-organization, and genetic algorithms
 
 ##### Notable excercises
@@ -46,3 +46,13 @@ The following two section contains Youtube playlist and Advanced course about [N
 
 
  <br />
+ 
+ 3. - [ ]  **FreeCodeCamp Sertifications**  
+
+> freeCodeCamp is a non-profit organization that aims to help people learn all the necessary coding skills.
+
+ - [ ] 3.1 [Responsive Web Design Certification 300 hours](https://www.freecodecamp.org/learn/)
+ - [ ] 3.1.1 [Shayhowe, Learn to Code HTML & CSS](https://learn.shayhowe.com/)
+
+
+ 
