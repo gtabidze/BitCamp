@@ -51,8 +51,11 @@ The following two section contains Youtube playlist and Advanced course about [N
 
 > freeCodeCamp is a non-profit organization that aims to help people learn all the necessary coding skills.
 
- - [ ] 3.1 [Responsive Web Design Certification 300 hours](https://www.freecodecamp.org/learn/)
- - [ ] 3.1.1 [Shayhowe, Learn to Code HTML & CSS](https://learn.shayhowe.com/)
-
+ - [x] 3.1 [Responsive Web Design Certification 300 hours](https://www.freecodecamp.org/learn/), [Sertificate](https://www.freecodecamp.org/certification/guatabidze/responsive-web-design)
+ - [x] 3.1.1 [Shayhowe, Learn to Code HTML & CSS](https://learn.shayhowe.com/)
+ 
+ <br />
+ 
+![Image description](https://i.imgur.com/JFds1Vx.png)
 
  
