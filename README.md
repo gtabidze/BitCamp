@@ -47,15 +47,26 @@ The following two section contains Youtube playlist and Advanced course about [N
 
  <br />
  
- 3. - [ ]  **FreeCodeCamp Sertifications**  
+ 3. - [ ]  **[FreeCodeCamp Sertifications](https://www.freecodecamp.org/learn)**  
 
 > freeCodeCamp is a non-profit organization that aims to help people learn all the necessary coding skills.
 
- - [x] 3.1 [Responsive Web Design Certification 300 hours](https://www.freecodecamp.org/learn/), [Sertificate](https://www.freecodecamp.org/certification/guatabidze/responsive-web-design)
+ - [x] 3.1 Responsive Web Design Certification 300 hours, **[Sertificate](https://www.freecodecamp.org/certification/guatabidze/responsive-web-design)**
  - [x] 3.1.1 [Shayhowe, Learn to Code HTML & CSS](https://learn.shayhowe.com/)
  
  <br />
  
 ![Image description](https://i.imgur.com/JFds1Vx.png)
+
+ - [x] 3.2 JavaScript Algorithms and Data Structures Certification (300 hours), **[Sertificate](https://www.freecodecamp.org/certification/guatabidze/javascript-algorithms-and-data-structures)**
+ 
+ <br />
+ 
+![Image description](https://i.imgur.com/qluHVBE.png)
+
+ - [ ] 3.3 Front End Libraries Certification (300 hours)
+ - [ ] 3.4 APIs and Microservices Certification (300 hours)
+ - [ ] 3.5 Information Security and Quality Assurance Certification (300 hours) 
+   
 
  
