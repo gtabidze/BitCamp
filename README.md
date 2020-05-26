@@ -47,12 +47,12 @@ The following two section contains Youtube playlist and Advanced course about [N
 
  <br />
  
- 3. - [ ]  **[FreeCodeCamp Sertifications](https://www.freecodecamp.org/learn)**  
+ 3. - [ ]  **[FreeCodeCamp Sertifications, Phase 1](https://www.freecodecamp.org/learn)**  
 
 > freeCodeCamp is a non-profit organization that aims to help people learn all the necessary coding skills.
 
  - [x] 3.1 Responsive Web Design Certification 300 hours, **[Sertificate](https://www.freecodecamp.org/certification/guatabidze/responsive-web-design)**
- - [x] 3.1.1 [Shayhowe, Learn to Code HTML & CSS](https://learn.shayhowe.com/)
+ - [ ] 3.1.1 [Shayhowe, Learn to Code HTML & CSS](https://learn.shayhowe.com/)
  
  <br />
  
@@ -65,8 +65,31 @@ The following two section contains Youtube playlist and Advanced course about [N
 ![Image description](https://i.imgur.com/qluHVBE.png)
 
  - [ ] 3.3 Front End Libraries Certification (300 hours)
- - [ ] 3.4 APIs and Microservices Certification (300 hours)
- - [ ] 3.5 Information Security and Quality Assurance Certification (300 hours) 
-   
 
+ <br />
+
+ 4. - [ ]  **[FreeCodeCamp Sertifications, Phase 2](https://www.freecodecamp.org/learn)**  
+   
+ - [ ] 4.1 APIs and Microservices Certification (300 hours)
+ - [ ] 4.2 Information Security and Quality Assurance Certification (300 hours) 
+ - [ ] 4.3 Coding Interview Prep
+
+ - [ ] 4.4 Portfolio on Github.
+ - [ ] 4.5 Command Line & Git Basics.
  
+ <br />
+ 
+ 6. - [ ]  **[Deep Dive Into Modern Web Development](https://www.freecodecamp.org/learn)** 
+
+> Learn React, Redux, Node.js, MongoDB, GraphQL and TypeScript in one go! This course will introduce you to modern JavaScript-based web development. The main focus is on building single page applications with ReactJS that use REST APIs built with Node.js.
+
+<br />
+
+ 7. - [ ] **Truly Undesrtand Javascript**
+
+ - [ ] 7.1 **[You Don’t Know JS](https://github.com/getify/You-Dont-Know-JS/)** 
+
+>  "My mission with YDKJSY isto empower every single JS developer to fully own the code they write, to understand it and to write with intention and clarity."
+
+ - [ ] 7.2 **[You Don’t Know JS](https://justjavascript.com/)** 
+ > What if there were an online course that could better prepare you to understand JavaScript, but wasn't a grueling march to get through?Just JavaScript is that course.
