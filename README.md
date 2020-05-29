@@ -62,9 +62,12 @@ The following two section contains Youtube playlist and Advanced course about [N
  
  <br />
  
- ![Image description](https://i.imgur.com/2IGkcJZ.png)
+ ![Image description](https://i.imgur.com/PesbANO.png)
+ 
  
  - [x] 3.3 Front End Libraries Certification (300 hours) **[Sertificate](https://www.freecodecamp.org/certification/guatabidze/front-end-libraries)**
+ 
+ ![Image description](https://i.imgur.com/2IGkcJZ.png)
 
  <br />
 
