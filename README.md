@@ -47,7 +47,7 @@ The following two section contains Youtube playlist and Advanced course about [N
 
  <br />
  
- 3. - [ ]  **[FreeCodeCamp Sertifications, Phase 1](https://www.freecodecamp.org/learn)**  
+ 3. - [x]  **[FreeCodeCamp Sertifications, Phase 2](https://www.freecodecamp.org/learn)**  
 
 > freeCodeCamp is a non-profit organization that aims to help people learn all the necessary coding skills.
 
@@ -62,13 +62,13 @@ The following two section contains Youtube playlist and Advanced course about [N
  
  <br />
  
-![Image description](https://i.imgur.com/qluHVBE.png)
-
- - [ ] 3.3 Front End Libraries Certification (300 hours)
+ ![Image description](https://i.imgur.com/2IGkcJZ.png)
+ 
+ - [x] 3.3 Front End Libraries Certification (300 hours)
 
  <br />
 
- 4. - [ ]  **[FreeCodeCamp Sertifications, Phase 2](https://www.freecodecamp.org/learn)**  
+ 4. - [ ]  **[FreeCodeCamp Sertifications, Phase 3](https://www.freecodecamp.org/learn)**  
    
  - [ ] 4.1 APIs and Microservices Certification (300 hours)
  - [ ] 4.2 Information Security and Quality Assurance Certification (300 hours) 
