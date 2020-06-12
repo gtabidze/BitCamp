@@ -94,5 +94,5 @@ The following two section contains Youtube playlist and Advanced course about [N
 
 >  "My mission with YDKJSY isto empower every single JS developer to fully own the code they write, to understand it and to write with intention and clarity."
 
- - [ ] 7.2 **[You Don’t Know JS](https://justjavascript.com/)** 
+ - [ ] 7.2 **[Just Javascript](https://justjavascript.com/)** 
  > What if there were an online course that could better prepare you to understand JavaScript, but wasn't a grueling march to get through?Just JavaScript is that course.
