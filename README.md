@@ -73,7 +73,11 @@ The following two section contains Youtube playlist and Advanced course about [N
 
  4. - [ ]  **[FreeCodeCamp Sertifications, Phase 3](https://www.freecodecamp.org/learn)**  
    
- - [ ] 4.1 APIs and Microservices Certification (300 hours)
+ - [x] 4.1 APIs and Microservices Certification (300 hours) **[Sertificate](https://www.freecodecamp.org/certification/guatabidze/apis-and-microservices)**
+ 
+  ![Image description](https://i.imgur.com/lIlSlFJ.png)
+ 
+ <br />
  - [ ] 4.2 Information Security and Quality Assurance Certification (300 hours) 
  - [ ] 4.3 Coding Interview Prep
 
