@@ -114,5 +114,5 @@ STARTED. ON HOLD for Assigments. Reason: Need more JS/React experience to finish
 
 8. - [ ] **Personal Addition to be more satisfied around the content of BitCamp** 
 
- - [x] 7.2 **[javascript30 | 30 day vanila JS coding challenge](https://javascript30.com/)** 
+ - [x] 8.1 **[javascript30 | 30 day vanila JS coding challenge](https://javascript30.com/)** 
 > So, you've done a few courses and read a few books but still don't feel great about your relationship with JavaScript. Let's build 30 things together.
