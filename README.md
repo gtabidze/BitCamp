@@ -84,24 +84,35 @@ The following two section contains Youtube playlist and Advanced course about [N
    ![Image description](https://i.imgur.com/WdtByH9.png)
  
  <br />
- - [ ] 4.3 Coding Interview Prep
+ - [ ] 4.3 Coding Interview Prep (Skipped for now)
 
- - [ ] 4.4 Portfolio on Github.
- - [ ] 4.5 Command Line & Git Basics.
+ - [x] 4.4 Portfolio on Github.
+ - [x] 4.5 Command Line & Git Basics.
  
  <br />
  
- 6. - [ ]  **[Deep Dive Into Modern Web Development](https://www.freecodecamp.org/learn)** 
+ 6. - [ ]  **[Deep Dive Into Modern Web Development](https://fullstackopen.com/en/)** 
 
 > Learn React, Redux, Node.js, MongoDB, GraphQL and TypeScript in one go! This course will introduce you to modern JavaScript-based web development. The main focus is on building single page applications with ReactJS that use REST APIs built with Node.js.
+the ri
+STARTED. ON HOLD for Assigments. Reason: Need more JS/React experience to finish the assignemnts the rigth way.
 
 <br />
 
- 7. - [ ] **Truly Undesrtand Javascript**
+ 7. - [ ] **Truly Undesrtand Javascript** 
 
- - [ ] 7.1 **[You Don’t Know JS](https://github.com/getify/You-Dont-Know-JS/)** 
+ - [x] 7.1 **[You Don’t Know JS](https://github.com/getify/You-Dont-Know-JS/)** 
 
 >  "My mission with YDKJSY isto empower every single JS developer to fully own the code they write, to understand it and to write with intention and clarity."
 
- - [ ] 7.2 **[Just Javascript](https://justjavascript.com/)** 
- > What if there were an online course that could better prepare you to understand JavaScript, but wasn't a grueling march to get through?Just JavaScript is that course.
+*Requires to reread.
+
+ - [x] 7.2 **[Just Javascript](https://justjavascript.com/)** 
+> What if there were an online course that could better prepare you to understand JavaScript, but wasn't a grueling march to get through?Just JavaScript is that course.
+
+<br />
+
+8. - [ ] **Personal Addition to be more satisfied around the content of BitCamp** 
+
+ - [x] 7.2 **[javascript30 | 30 day vanila JS coding challenge](https://javascript30.com/)** 
+> So, you've done a few courses and read a few books but still don't feel great about your relationship with JavaScript. Let's build 30 things together.
