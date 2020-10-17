@@ -107,12 +107,15 @@ STARTED. ON HOLD for Assigments. Reason: Need more JS/React experience to finish
 
 *Requires to reread.
 
- - [x] 7.2 **[Just Javascript](https://justjavascript.com/)** 
+ - [ ] 7.2 **[Just Javascript](https://justjavascript.com/)** 
 > What if there were an online course that could better prepare you to understand JavaScript, but wasn't a grueling march to get through?Just JavaScript is that course.
 
 <br />
 
-8. - [ ] **Personal Addition to be more satisfied around the content of BitCamp** 
+8. - [ ] **Notable personal additions to be more satisfied around JS and React** 
 
  - [x] 8.1 **[javascript30 | 30 day vanila JS coding challenge](https://javascript30.com/)** 
 > So, you've done a few courses and read a few books but still don't feel great about your relationship with JavaScript. Let's build 30 things together.
+
+- [x] 8.2 **[ES6 and Beyond Workshop](https://www.youtube.com/watch?v=t3R3R7UyN2Y)** 
+>  With ES6 complete and ES2016 almost ratified, we have a ton of awesome new features to use in our daily software development.In this training, we'll learn about the features you're likely to use and benefit from on a day-to-day basis. 
