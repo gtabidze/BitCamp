@@ -119,3 +119,6 @@ STARTED. ON HOLD for Assigments. Reason: Need more JS/React experience to finish
 
 - [x] 8.2 **[ES6 and Beyond Workshop](https://www.youtube.com/watch?v=t3R3R7UyN2Y)** 
 >  With ES6 complete and ES2016 almost ratified, we have a ton of awesome new features to use in our daily software development.In this training, we'll learn about the features you're likely to use and benefit from on a day-to-day basis. 
+
+- [x] 8.3 **[Pure React: Learn to think in React](https://purereact.com/)** 
+>  Learn vanilla React, without all the libraries.
