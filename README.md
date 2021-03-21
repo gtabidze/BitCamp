@@ -122,3 +122,9 @@ STARTED. ON HOLD for Assigments. Reason: Need more JS/React experience to finish
 
 - [x] 8.3 **[Pure React: Learn to think in React](https://purereact.com/)** 
 >  Learn vanilla React, without all the libraries.
+
+- [ ] 8.4 **[Start developing websites like it's 2025](https://react2025.com/)** 
+>  Build and deploy a modern SaaS application using the most popular open-source software.
+
+- [ ] 8.5 **[Mastering NextJS](https://masteringnextjs.com/)** 
+>  A free video course for building static and server-side rendered applications with Next.js and React.
