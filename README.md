@@ -91,7 +91,7 @@ The following two section contains Youtube playlist and Advanced course about [N
  
  <br />
  
- 6. - [ ]  **[Deep Dive Into Modern Web Development](https://fullstackopen.com/en/)** 
+ 6. - [x]  **[Deep Dive Into Modern Web Development](https://fullstackopen.com/en/)** 
 
 > Learn React, Redux, Node.js, MongoDB, GraphQL and TypeScript in one go! This course will introduce you to modern JavaScript-based web development. The main focus is on building single page applications with ReactJS that use REST APIs built with Node.js.
 the ri
@@ -107,7 +107,7 @@ STARTED. ON HOLD for Assigments. Reason: Need more JS/React experience to finish
 
 *Requires to reread.
 
- - [ ] 7.2 **[Just Javascript](https://justjavascript.com/)** 
+ - [x] 7.2 **[Just Javascript](https://justjavascript.com/)** 
 > What if there were an online course that could better prepare you to understand JavaScript, but wasn't a grueling march to get through?Just JavaScript is that course.
 
 <br />
