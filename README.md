@@ -109,6 +109,7 @@ STARTED. ON HOLD for Assigments. Reason: Need more JS/React experience to finish
 
  - [x] 7.2 **[Just Javascript](https://justjavascript.com/)** 
 > What if there were an online course that could better prepare you to understand JavaScript, but wasn't a grueling march to get through?Just JavaScript is that course.
+   ![Image description](https://i.imgur.com/12lur24.png)
 
 <br />
 
