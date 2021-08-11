@@ -71,7 +71,7 @@ The following two section contains Youtube playlist and Advanced course about [N
 
  <br />
 
- 4. - [ ]  **[FreeCodeCamp Sertifications, Phase 3](https://www.freecodecamp.org/learn)**  
+ 4. - [x]  **[FreeCodeCamp Sertifications, Phase 3](https://www.freecodecamp.org/learn)**  
    
  - [x] 4.1 APIs and Microservices Certification (300 hours) **[Sertificate](https://www.freecodecamp.org/certification/guatabidze/apis-and-microservices)**
  
@@ -121,11 +121,12 @@ STARTED. ON HOLD for Assigments. Reason: Need more JS/React experience to finish
 - [x] 8.2 **[ES6 and Beyond Workshop](https://www.youtube.com/watch?v=t3R3R7UyN2Y)** 
 >  With ES6 complete and ES2016 almost ratified, we have a ton of awesome new features to use in our daily software development.In this training, we'll learn about the features you're likely to use and benefit from on a day-to-day basis. 
 
-- [x] 8.3 **[EpicReact](https://epicreact.dev/)** 
+- [x] 8.6 **[Pure React: Learn to think in React](https://purereact.com/)** 
+>  Learn vanilla React, without all the libraries.
+
+- [x] 8.4 **[EpicReact](https://epicreact.dev/)** 
 >  Confidently Ship Well-Architected Production Ready React Apps Like a Pro
 
-- [] 8.4 **[Pure React: Learn to think in React](https://purereact.com/)** 
->  Learn vanilla React, without all the libraries.
 
 - [ ] 8.5 **[Start developing websites like it's 2025](https://react2025.com/)** 
 >  Build and deploy a modern SaaS application using the most popular open-source software.
